@@ -2,7 +2,7 @@
   <a href="https://www.linkedin.com/in/chisom-onyeka" target="_blank"><img src="https://img.shields.io/badge/Linkedin-Connect%20With%20Chisom-blue?logo=linkedin" /></a>
 </p>
 
-## Hi there👋 I'm Chisom, you're welcome 🤗
+## Hi there👋 and welcome 🤗
 
 ### About Me
 
@@ -16,8 +16,9 @@ Currently, I work as a Mech. Maintenance Technician in the Energy industry, incu
 - 🔭 I’m open to work opportunities.
 - ⚡ Fun fact: Smiles way too much 😊
 
+ ## ⚒️ Skills
 <details>
-<summary><b> 🙋🏽‍♂ Skills & Interests (Click to view): </b></summary>
+<summary><b>(Click to view): </b></summary>
   <p> 🥼 I'm equipping myself with Data Analytics' tools and applications
   
   - **Programming Technologies:** SQL, Python
@@ -26,6 +27,32 @@ Currently, I work as a Mech. Maintenance Technician in the Energy industry, incu
 </p>
  </details>
 
-💬 Ask me about any of my projects.
-    - 📫 How to reach me: kingsleyonyeka87@gmail.com
+## Projects and Interests
+
+### Python
+  <details>
+   <summary> Exploratory Data Analysis
+   </summary>
+    <ul>
+    <li><a href= "https://github.com/Kingston257/Investigating-Netflix-Movies"> Investigating Netflix Movies
+   </a></li>
+    <li><a href= "https://github.com/Kingston257/NYC-School-SAT-Performance-Analysis">NYC School SAT Performance Analysis
+   </a></li>
+    </ul>
+ </details>
+
+  ### Recommenders
+<details>
+   <summary> Recommendation System
+   </summary>
+    <ul>
+    <li><a href= "https://github.com/Kingston257/recommenders"> recommenders
+   </a></li>
+    </ul>
+ </details>
+  
+ ## 💬 Connect with Me
+ Ask me about any of my projects.
+- [📫Email](mailto:kingsleyonyeka87@gmail.com)
+- [ℹLinkedIn](https://www.linkedin.com/in/chisom-onyeka/)
  
