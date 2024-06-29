@@ -11,14 +11,13 @@ I have a background in Computer Engineering. I have 3+ years of work experience,
 
 Currently, I work as a Mech. Maintenance Technician in the Energy industry, inculcating logical problem-solving processes and solutions, and an adaptive learning capacity with rigour and team work to deliver optimal production efficiency by ensuring equipment functionality. 
 
-
-- 👯 I’m looking to collaborate on Data projects and share insights.
+- 👯 I aim to contribute to Data Science projects.
 - 🔭 I’m open to work opportunities.
 - ⚡ Fun fact: Smiles way too much 😊
 
  ## ⚒️ Skills
 <details>
-<summary><b>(Click to view): </b></summary>
+<summary><b>Click to view: </b></summary>
   <p> 🥼
   
   - **Programming Technologies:** SQL, Python
@@ -31,7 +30,7 @@ Currently, I work as a Mech. Maintenance Technician in the Energy industry, incu
 
 ### Python
   <details>
-   <summary> Exploratory Data Analysis
+   <summary> Click to view
    </summary>
     <ul>
     <li><a href= "https://github.com/Kingston257/Investigating-Netflix-Movies"> Investigating Netflix Movies
@@ -40,6 +39,39 @@ Currently, I work as a Mech. Maintenance Technician in the Energy industry, incu
    </a></li>
     </ul>
  </details>
+
+### SQL
+<details>
+   <summary> Click to view
+   </summary>
+    <ul>
+    <li><a href= "https://github.com/Kingston257/Successful-Movies"> Successful Movies
+   </a></li>
+    </ul>
+ </details>
+
+### MS PowerBI
+<details>
+   <summary> Click to view
+   </summary>
+    <ul>
+    <li><a href= "https://github.com/Kingston257/Super-Store-Analysis"> Superstore Analysis
+   </a></li>
+    </ul>
+ </details>
+
+### MS Excel
+<details>
+   <summary> Click to view
+   </summary>
+    <ul>
+    <li><a href= "https://github.com/Kingston257/Bike-Sales-Analysis"> Bike Sales Analysis
+   </a></li>
+    <li><a href= "https://github.com/Kingston257/Bike-Sales-Data-Manipulation">Bike Sales Data Manipulation
+   </a></li>
+    </ul>
+ </details>
+
 
   ### Recommenders
 <details>
@@ -53,6 +85,6 @@ Currently, I work as a Mech. Maintenance Technician in the Energy industry, incu
   
  ## 💬 Connect with Me
  Ask me about any of my projects.
-- [📫Email](mailto:kingsleyonyeka87@gmail.com)
-- [ℹLinkedIn](https://www.linkedin.com/in/chisom-onyeka/)
+- [Email](mailto:kingsleyonyeka87@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/chisom-onyeka/)
  
