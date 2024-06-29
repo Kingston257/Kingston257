@@ -72,10 +72,20 @@ Currently, I work as a Mech. Maintenance Technician in the Energy industry, incu
     </ul>
  </details>
 
-
-  ### Recommenders
+### GenAI
 <details>
-   <summary> Recommendation System
+   <summary> Click to view
+   </summary>
+    <ul>
+    <li><a href= "https://chisomonyeka.my.canva.site/ai-portfolio"> My AI Portfolio
+   </a></li>
+    </ul>
+ </details>
+
+
+### Open Source: Recommendation System
+<details>
+   <summary> Click to view
    </summary>
     <ul>
     <li><a href= "https://github.com/Kingston257/recommenders"> recommenders
@@ -84,7 +94,7 @@ Currently, I work as a Mech. Maintenance Technician in the Energy industry, incu
  </details>
   
  ## 💬 Connect with Me
- Ask me about any of my projects.
+ Ask me about any of my projects/interests.
 - [Email](mailto:kingsleyonyeka87@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/chisom-onyeka/)
  
