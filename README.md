@@ -6,11 +6,10 @@
 
 ### About Me
 
-I'm an aspiring Data Scientist, enthusiastic about Machine Learning concepts and AI capabilities.
-I have a background in Computer Engineering. I have 3+ years of work experience, in which I have been engaged in the application of data principles to drive key business decisions across diverse fields, thus my passion for data analytics.
-
-Currently, I work as a Mech. Maintenance Technician in the Energy industry, inculcating logical problem-solving processes and solutions, and an adaptive learning capacity with rigour and team work to deliver optimal production efficiency by ensuring equipment functionality. 
-
+- I'm into Data Science, interested in Machine Learning and Artificial Intelligence.
+- I have a background in Computer Engineering.
+- I have 3+ years of work experience, in which I have been engaged in the application of data principles to drive key business decisions across diverse fields, thus my passion for data analytics.
+- Currently, I work as a Mech. Maintenance Technician in the Energy industry, inculcating logical problem-solving processes and solutions, and an adaptive learning capacity with rigour and team work to deliver optimal production efficiency by ensuring equipment functionality. 
 - 👯 I aim to contribute to Data Science projects.
 - 🔭 I’m open to work opportunities.
 - ⚡ Fun fact: Smiles way too much 😊
