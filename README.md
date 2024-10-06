@@ -36,6 +36,8 @@
    </a></li>
     <li><a href= "https://github.com/Kingston257/NYC-School-SAT-Performance-Analysis">NYC School SAT Performance Analysis
    </a></li>
+    <li><a href= "https://github.com/Kingston257/Visualizing-the-History-of-Nobel-Prize-Winners">Visualizing the History of Nobel Prize Winners
+   </a></li>
     <li><a href= "https://github.com/Kingston257/Modeling-Car-Insurance-Claim-Outcomes">Modeling Car Insurance Claim Outcomes
    </a></li>
     <li><a href= "https://github.com/Kingston257/Predictive-Modeling-for-Agriculture">Predictive Modeling for Agriculture
