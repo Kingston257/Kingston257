@@ -6,15 +6,15 @@
 
 ### About Me
 
-- I'm into Data Science, interested in Machine Learning and Artificial Intelligence.
+- I'm a Data Scientist, with research interest in Machine Learning and Artificial Intelligence.
 - I have a background in Computer Engineering.
-- I have 3+ years of work experience, in which I have been engaged in the application of data principles to drive key business decisions across diverse fields, thus my passion for data analytics.
+- I have 3+ years of work experience, in which I have been engaged in the application of data/analytical principles to drive key business decisions across diverse fields, thus my passion for data analytics.
 - Currently, I work as a Mech. Maintenance Technician in the Energy industry, inculcating logical problem-solving processes and solutions, and an adaptive learning capacity with rigour and team work to deliver optimal production efficiency by ensuring equipment functionality. 
 - 👯 I aim to contribute to Data Science projects.
-- 🔭 I’m open to work opportunities.
+- 🔭 I’m open to work and learning opportunities.
 - ⚡ Fun fact: Smiles way too much 😊
 
- ## ⚒️ Skills
+ ## ⚒️ Skills and Tools
 <details>
 <summary><b>Click to view: </b></summary>
   <p> 🥼
@@ -36,7 +36,12 @@
    </a></li>
     <li><a href= "https://github.com/Kingston257/NYC-School-SAT-Performance-Analysis">NYC School SAT Performance Analysis
    </a></li>
+    <li><a href= "https://github.com/Kingston257/Modeling-Car-Insurance-Claim-Outcomes">Modeling Car Insurance Claim Outcomes
+   </a></li>
+    <li><a href= "https://github.com/Kingston257/Predictive-Modeling-for-Agriculture">Predictive Modeling for Agriculture
+   </a></li>
     </ul>
+    
  </details>
 
 ### SQL
@@ -82,7 +87,7 @@
  </details>
 
 
-### Open Source: Recommendation System
+### Open Source: Machine Learning
 <details>
    <summary> Click to view
    </summary>
