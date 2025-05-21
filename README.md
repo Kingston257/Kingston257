@@ -2,7 +2,7 @@
   <a href="https://www.linkedin.com/in/chisom-onyeka" target="_blank"><img src="https://img.shields.io/badge/Linkedin-Connect%20With%20Chisom-blue?logo=linkedin" /></a>
 </p>
 
-## Hi there👋 and welcome 🤗
+## Hi there👋
 
 ### About Me
 
