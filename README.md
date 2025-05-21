@@ -6,22 +6,37 @@
 
 ### About Me
 
-- I'm a Data Scientist, with research interest in Machine Learning and Artificial Intelligence.
-- I have a background in Computer Engineering.
-- I have 3+ years of work experience, in which I have been engaged in the application of data/analytical principles to drive key business decisions across diverse fields, thus my passion for data analytics.
-- Currently, I work as a Mech. Maintenance Technician in the Energy industry, inculcating logical problem-solving processes and solutions, and an adaptive learning capacity with rigour and team work to deliver optimal production efficiency by ensuring equipment functionality. 
-- 👯 I aim to contribute to Data Science projects.
-- 🔭 I’m open to work and learning opportunities.
-- ⚡ Fun fact: Smiles way too much 😊
+I'm Chisom Onyeka — a Data Scientist and ICT professional with a background in Computer Engineering and a strong research interest in Machine Learning and Artificial Intelligence.
+
+💼 With 3+ years of cross-sector experience, I’ve applied analytical thinking and data-driven methods to solve business and operational challenges in energy, engineering, logistics, and administration.
+
+🔧 Currently, I serve as the ICT Coordinator in an energy services firm, where I lead tech infrastructure, cloud services, and digital transformation initiatives. My work blends problem-solving, resilience, and continuous learning, bridging IT operations with business impact.
+
+💡 I’ve also completed projects involving:
+
+ - Predictive modeling (logistic regression, supervised learning)
+
+ - Data wrangling and visualization
+
+ - Collaborative technical research and documentation
+
+👯‍♂️ I'm eager to contribute to open-source Data Science and AI projects.
+
+🔭 Open to remote work, research collaboration, and graduate study opportunities.
+
+ - Fun fact: I enjoy connecting ideas, people, and possibilities (and yes, I still smile a lot 😊).
 
  ## ⚒️ Skills and Tools
 <details>
 <summary><b>Click to view: </b></summary>
-  <p> 🥼
-  
-  - **Programming Technologies:** SQL, Python
+  <p> 
 
+  - **Programming Technologies:** SQL, Python
+  - **Tools:** Jupyter Notebook, Git, GitHub
+  - **Cloud & Admin Tools:** Google Workspace, Network configuration (MikroTik, Ubiquiti), Basic Linux
   - **Business Intelligence Tools:** MS Excel, Tableau, PowerBI
+  - **Web Design & Deployment** (basic exposure)
+  - **Soft Skills:** Communication, Team Collaboration, Troubleshooting
 </p>
  </details>
 
