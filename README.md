@@ -8,7 +8,7 @@
 
 I'm Chisom Onyeka — a Data Scientist and ICT professional with a background in Computer Engineering and a strong research interest in Machine Learning and Artificial Intelligence.
 
-💼 With 3+ years of cross-sector experience, I’ve applied analytical thinking and data-driven methods to solve business and operational challenges in energy, engineering, logistics, and administration.
+💼 With 5+ years of cross-sector experience, I’ve applied analytical thinking and data-driven methods to solve business and operational challenges in energy, engineering, logistics, and administration.
 
 🔧 Currently, I serve as the ICT Coordinator in an energy services firm, where I lead tech infrastructure, cloud services, and digital transformation initiatives. My work blends problem-solving, resilience, and continuous learning, bridging IT operations with business impact.
 
@@ -113,6 +113,18 @@ I'm Chisom Onyeka — a Data Scientist and ICT professional with a background in
    </a></li>
     </ul>
  </details>
+
+
+### Web Design and Deployment
+<details>
+   <summary> Click to view
+   </summary>
+    <ul>
+    <li><a href= "https://github.com/Kingston257/Company-Website-Redesign"> Company Website Redesign
+   </a></li>
+    </ul>
+ </details>
+
   
  ## 💬 Connect with Me
  Ask me about any of my projects/interests.
