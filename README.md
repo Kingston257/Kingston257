@@ -122,6 +122,8 @@ I'm Chisom Onyeka — a Data Scientist and ICT professional with a background in
     <ul>
     <li><a href= "https://github.com/Kingston257/Company-Website-Redesign"> Company Website Redesign
    </a></li>
+       <li><a href= "https://github.com/Kingston257/landing-page-his_properties"> Landing Page: HIS Properties NG
+   </a></li>
     </ul>
  </details>
 
