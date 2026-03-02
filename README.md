@@ -94,21 +94,13 @@ I'm Chisom Onyeka — a Data Scientist and ICT professional with a background in
     </ul>
  </details>
 
-### MS PowerBI
+### Data Analysis
 <details>
    <summary> Click to view
    </summary>
     <ul>
     <li><a href= "https://github.com/Kingston257/Super-Store-Analysis"> Superstore Analysis
-   </a></li>
-    </ul>
- </details>
-
-### MS Excel
-<details>
-   <summary> Click to view
-   </summary>
-    <ul>
+    </a></li>
     <li><a href= "https://github.com/Kingston257/Bike-Sales-Analysis"> Bike Sales Analysis
    </a></li>
     <li><a href= "https://github.com/Kingston257/Bike-Sales-Data-Manipulation">Bike Sales Data Manipulation
@@ -117,7 +109,7 @@ I'm Chisom Onyeka — a Data Scientist and ICT professional with a background in
  </details>
 
 
-### Open Source: Machine Learning
+### Open Source Software
 <details>
    <summary> Click to view
    </summary>
