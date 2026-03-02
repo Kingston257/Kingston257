@@ -35,19 +35,31 @@ I'm Chisom Onyeka — a Data Scientist and ICT professional with a background in
   - **Tools:** Jupyter Notebook, Git, GitHub
   - **Cloud & Admin Tools:** Google Workspace, Network configuration (MikroTik, Ubiquiti), Basic Linux
   - **Business Intelligence Tools:** MS Excel, Tableau, PowerBI
-  - **Web Design & Deployment** (basic exposure)
+  - **Web Design & Deployment**
   - **Soft Skills:** Communication, Team Collaboration, Troubleshooting
 </p>
  </details>
 
 ## Projects and Interests
 
-### Python
+### Cloud and Admin
+  <details>
+   <summary> Click to view
+   </summary>
+    <ul>
+    <li><a href= "https://github.com/Kingston257/UniFi-Network-Controller-Setup"> UniFi Network Controller Setup and Remote Management
+   </a></li>
+    </ul>
+ </details>
+
+### Python and SQL - Data Science
   <details>
    <summary> Click to view
    </summary>
     <ul>
     <li><a href= "https://github.com/Kingston257/Investigating-Netflix-Movies"> Investigating Netflix Movies
+   </a></li>
+      <li><a href= "https://github.com/Kingston257/Successful-Movies"> Successful Movies
    </a></li>
     <li><a href= "https://github.com/Kingston257/NYC-School-SAT-Performance-Analysis">NYC School SAT Performance Analysis
    </a></li>
@@ -58,15 +70,26 @@ I'm Chisom Onyeka — a Data Scientist and ICT professional with a background in
     <li><a href= "https://github.com/Kingston257/Predictive-Modeling-for-Agriculture">Predictive Modeling for Agriculture
    </a></li>
     </ul>
-    
  </details>
 
-### SQL
+### Web Design and Deployment
 <details>
    <summary> Click to view
    </summary>
     <ul>
-    <li><a href= "https://github.com/Kingston257/Successful-Movies"> Successful Movies
+    <li><a href= "https://github.com/Kingston257/Company-Website-Redesign"> Company Website Redesign
+   </a></li>
+       <li><a href= "https://github.com/Kingston257/landing-page-his_properties"> Landing Page: HIS Properties NG
+   </a></li>
+    </ul>
+ </details>
+
+### GenAI
+<details>
+   <summary> Click to view
+   </summary>
+    <ul>
+    <li><a href= "https://chisomonyeka.my.canva.site/ai-portfolio"> My AI Portfolio
    </a></li>
     </ul>
  </details>
@@ -93,16 +116,6 @@ I'm Chisom Onyeka — a Data Scientist and ICT professional with a background in
     </ul>
  </details>
 
-### GenAI
-<details>
-   <summary> Click to view
-   </summary>
-    <ul>
-    <li><a href= "https://chisomonyeka.my.canva.site/ai-portfolio"> My AI Portfolio
-   </a></li>
-    </ul>
- </details>
-
 
 ### Open Source: Machine Learning
 <details>
@@ -110,19 +123,6 @@ I'm Chisom Onyeka — a Data Scientist and ICT professional with a background in
    </summary>
     <ul>
     <li><a href= "https://github.com/Kingston257/recommenders"> recommenders
-   </a></li>
-    </ul>
- </details>
-
-
-### Web Design and Deployment
-<details>
-   <summary> Click to view
-   </summary>
-    <ul>
-    <li><a href= "https://github.com/Kingston257/Company-Website-Redesign"> Company Website Redesign
-   </a></li>
-       <li><a href= "https://github.com/Kingston257/landing-page-his_properties"> Landing Page: HIS Properties NG
    </a></li>
     </ul>
  </details>
