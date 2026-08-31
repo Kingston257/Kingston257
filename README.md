@@ -6,13 +6,17 @@
 
 ### About Me
 
-I'm Chisom Onyeka — a Data Scientist and ICT professional with a background in Computer Engineering and a strong research interest in Machine Learning and Artificial Intelligence.
+I'm Chisom Onyeka — an ICT professional with a background in Computer Engineering and a keen research interest in Artificial Intelligence.
 
-💼 With 5+ years of cross-sector experience, I’ve applied analytical thinking and data-driven methods to solve business and operational challenges in energy, engineering, logistics, and administration.
+💼 With 6+ years of cross-sector experience, I’ve applied analytical thinking and digital solutions to solve business and operational challenges in energy, engineering, logistics, and administration.
 
-🔧 Currently, I serve as the ICT Coordinator in an energy services firm, where I lead tech infrastructure, cloud services, and digital transformation initiatives. My work blends problem-solving, resilience, and continuous learning, bridging IT operations with business impact.
+🔧 Currently, I serve as the ICT Coordinator for an energy services firm, where I lead tech infrastructure, cloud services, and digital transformation initiatives. My work blends problem-solving, resilience, and continuous learning, bridging IT operations with business impact.
 
-💡 I’ve also completed projects involving:
+💡 I’ve overseen and completed projects involving:
+
+ - Corporate Website Development and Deployment
+
+ - Workflow Automation
 
  - Predictive modeling (logistic regression, supervised learning)
 
@@ -20,29 +24,47 @@ I'm Chisom Onyeka — a Data Scientist and ICT professional with a background in
 
  - Collaborative technical research and documentation
 
-👯‍♂️ I'm eager to contribute to open-source Data Science and AI projects.
 
-🔭 Open to remote work, research collaboration, and graduate study opportunities.
+ >🔭 Open to remote work, research collaboration, and graduate study opportunities.
 
- - Fun fact: I enjoy connecting ideas, people, and possibilities (and yes, I still smile a lot 😊).
 
- ## ⚒️ Skills and Tools
+ ## ⚒️ Core Capabilities & Tech Stack
 <details>
 <summary><b>Click to view: </b></summary>
   <p> 
 
-  - **Programming Technologies:** SQL, Python
-  - **Tools:** Jupyter Notebook, Git, GitHub
-  - **Cloud & Admin Tools:** Google Workspace, Network configuration (MikroTik, Ubiquiti), Basic Linux
-  - **Business Intelligence Tools:** MS Excel, Tableau, PowerBI
-  - **Web Design & Deployment**
-  - **Soft Skills:** Communication, Team Collaboration, Troubleshooting
+  - **Cloud & Admin Tools:** Cloudflare DNS, Google Workspace, Zoho Workplace, Ubiquiti UniFi
+  - **Web Design, Deployment & Process Automation:** CMS, Hostinger, GitHub, Google Apps Script
+  - **Data Analytics & Applied AI:** AI Research & Integration (LLM Prompting), Supervised ML (Python, Pandas), Predictive Modeling, Data Wrangling
+  - **Digital Branding:** Canva
 </p>
  </details>
 
-## Projects and Interests
+## Key Projects and Impact
 
-### Cloud and Admin
+### Web Design and Deployment
+<details>
+   <summary> Click to view
+   </summary>
+    <ul>
+      <li><a href= "https://github.com/Kingston257/Fedoz-Corporate-Website"> Corporate B2B Website - Fedoz Nigeria Limited 
+   </a></li>
+      <li><a href= "https://github.com/Kingston257/landing-page-his_properties"> Landing Page: HIS Properties NG
+   </a></li>
+    </ul>
+ </details>
+
+### Verification App & Automation
+  <details>
+   <summary> Click to view
+   </summary>
+    <ul>
+    <li><a href= "https://drive.google.com/file/d/1iLWV_Awq3Sat6h3eNuF-o929RSxKoAsP/view"> Custom Google Apps Script & QR verification system
+   </a></li>
+    </ul>
+ </details>
+
+### Infrastructure and Cloud
   <details>
    <summary> Click to view
    </summary>
@@ -57,29 +79,11 @@ I'm Chisom Onyeka — a Data Scientist and ICT professional with a background in
    <summary> Click to view
    </summary>
     <ul>
-    <li><a href= "https://github.com/Kingston257/Investigating-Netflix-Movies"> Investigating Netflix Movies
-   </a></li>
-      <li><a href= "https://github.com/Kingston257/Successful-Movies"> Successful Movies
-   </a></li>
     <li><a href= "https://github.com/Kingston257/NYC-School-SAT-Performance-Analysis">NYC School SAT Performance Analysis
-   </a></li>
-    <li><a href= "https://github.com/Kingston257/Visualizing-the-History-of-Nobel-Prize-Winners">Visualizing the History of Nobel Prize Winners
    </a></li>
     <li><a href= "https://github.com/Kingston257/Modeling-Car-Insurance-Claim-Outcomes">Modeling Car Insurance Claim Outcomes
    </a></li>
     <li><a href= "https://github.com/Kingston257/Predictive-Modeling-for-Agriculture">Predictive Modeling for Agriculture
-   </a></li>
-    </ul>
- </details>
-
-### Web Design and Deployment
-<details>
-   <summary> Click to view
-   </summary>
-    <ul>
-    <li><a href= "https://github.com/Kingston257/Company-Website-Redesign"> Company Website Redesign
-   </a></li>
-       <li><a href= "https://github.com/Kingston257/landing-page-his_properties"> Landing Page: HIS Properties NG
    </a></li>
     </ul>
  </details>
@@ -93,21 +97,6 @@ I'm Chisom Onyeka — a Data Scientist and ICT professional with a background in
    </a></li>
     </ul>
  </details>
-
-### Data Analysis
-<details>
-   <summary> Click to view
-   </summary>
-    <ul>
-    <li><a href= "https://github.com/Kingston257/Super-Store-Analysis"> Superstore Analysis
-    </a></li>
-    <li><a href= "https://github.com/Kingston257/Bike-Sales-Analysis"> Bike Sales Analysis
-   </a></li>
-    <li><a href= "https://github.com/Kingston257/Bike-Sales-Data-Manipulation">Bike Sales Data Manipulation
-   </a></li>
-    </ul>
- </details>
-
 
 ### Open Source Software
 <details>
